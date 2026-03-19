@@ -2,13 +2,6 @@
 Hands On Kubernetes
 Empowering DevOps Skills with Kubernetes Administration: A Hands-On Workshop
 
-Workshop Organizers: 
-Dr Ramkumar Lakshminarayanan, 
-Assistant Professor, Department of Information Technology,
-University of Technology and Applied Sciences – Sur
-
-Expertise in the Subject: 
-Dr. Ramkumar has expertise in containers and CI/CD technologies and has experience in  implementing technologies such as Docker, Kubernetes, and others in their ongoing projects.
 
 Abstract: 
 With cloud computing and microservice application development and parallel improvement in container technology, the tool Kubernetes is attracting many industries for continuous integration and development. This workshop will provide insight into the Kubernetes Administration. This workshop will be helpful to people who want to understand development and operation (DevOps).
@@ -32,9 +25,6 @@ Content Outline:
 2.	Introduction to Microservice development – 5 Minutes
 3.	Overview of Kubernetes Architecture - 10 Minutes
 4.	Hands-on session with Kubernetes functionality in an online environment – 40 Minutes
-
-Speakers and Contributors: 
-Dr Ramkumar, Assistant Professor, Department of Information Technology, UTAS-Sur.
 
 Learning Outcomes: 
 Overall, the workshop will equip participants with the knowledge and skills to administer Kubernetes clusters effectively.
